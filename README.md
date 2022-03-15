@@ -1,2 +1,3 @@
 # nodeNFTmaker
-Makes NFT with NODE.JS and canvas
+
+Makes NFT artwork with NODE.JS and canvas inspired by HashLips.

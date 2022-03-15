@@ -1,0 +1,22 @@
+{
+  "name": "nodenftmaker",
+  "version": "1.0.0",
+  "description": "Makes NFT with NODE.JS and canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LloydDub/nodeNFTmaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LloydDub/nodeNFTmaker/issues"
+  },
+  "homepage": "https://github.com/LloydDub/nodeNFTmaker#readme",
+  "dependencies": {
+    "canvas": "^2.9.0"
+  }
+}
